@@ -1,5 +1,4 @@
-# Windows 11 Gruvbox Material
-Gruvbox Material theme for Windows 11 (25h2)
+# Gruvbox Material theme for Windows 11 (25h2)
 ![Screenshot 2026-02-09 230112](https://github.com/user-attachments/assets/c6c08f7b-ad17-4a16-8eb2-ac856dc1fa0e)
 ![Screenshot 2026-02-09 230221](https://github.com/user-attachments/assets/19c1e5d1-de6b-499c-90f1-2bce5dbdccfa)
 ![Screenshot 2026-02-09 225822](https://github.com/user-attachments/assets/2991f19a-523c-49c7-a263-c2120a6ae18c)
@@ -15,7 +14,7 @@ Gruvbox Material theme for Windows 11 (25h2)
 ![Screenshot 2026-02-09 230610](https://github.com/user-attachments/assets/c25e807d-3e7b-4d71-8c7d-4530a3ec0c3d)
 ![Screenshot 2026-02-09 230009](https://github.com/user-attachments/assets/81a9d96e-054c-45fa-8825-ed62791989a7)
 ![Screenshot 2026-02-09 230002](https://github.com/user-attachments/assets/bb6dcd11-34f7-4773-9683-d27bc37f7952)
-# DeFault Windows frames
+# Default Windows frames
 ![Screenshot 2026-02-09 224911](https://github.com/user-attachments/assets/3e1246c0-c1ba-4e42-989f-efb726440ef7)
 ![Screenshot 2026-02-09 224927](https://github.com/user-attachments/assets/e0b3c429-efa6-415b-8fc0-c2efacca9a0b)
 ![Screenshot 2026-02-09 225050](https://github.com/user-attachments/assets/23c0c345-f52f-494e-86d3-c1e66a7e3d45)
