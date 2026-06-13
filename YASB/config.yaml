@@ -217,6 +217,7 @@ widgets:
       calendar:
         alignment: "center"
         direction: "up"
+        round_corners: false
   disk:
     type: "yasb.disk.DiskWidget"
     options:
@@ -339,7 +340,7 @@ widgets:
         on_right: 'prev_layout'
       layout_menu:
         blur: false
-        round_corners: true
+        round_corners: false
         round_corners_type: "normal"
         border_color: "System"
         alignment: "left"
