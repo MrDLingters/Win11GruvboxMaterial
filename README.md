@@ -1,4 +1,5 @@
 # Gruvbox Material theme for Windows 11 (25h2)
+### For YASB use latest version of [Akira theme](https://github.com/MrDLingters/Akira_YASB) with chosen color scheme.
 ![Screenshot 2026-02-09 230112](https://github.com/user-attachments/assets/c6c08f7b-ad17-4a16-8eb2-ac856dc1fa0e)
 ![Screenshot 2026-02-09 230221](https://github.com/user-attachments/assets/19c1e5d1-de6b-499c-90f1-2bce5dbdccfa)
 ![Screenshot 2026-02-09 225822](https://github.com/user-attachments/assets/2991f19a-523c-49c7-a263-c2120a6ae18c)
